@@ -1,2 +1,1 @@
-# android-kot-base
-android-kot-base
+Delete code to keep safe
